@@ -12,6 +12,7 @@ public class Calculator {
     }
 
     // Method to multiply two numbers
+    // промяна от User2
     public double multiply(double a, double b) {
         return a * b;
     }
