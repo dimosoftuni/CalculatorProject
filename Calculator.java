@@ -1,6 +1,7 @@
 public class Calculator {
 
     // Method to add three numbers numbers
+    // some change from user1
     public double add(double a, double b, double c, double d) {
         return a + b + c + d;
     }
