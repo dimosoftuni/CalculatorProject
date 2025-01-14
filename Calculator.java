@@ -19,7 +19,8 @@ public class Calculator {
     }
 
     // Method to divide two numbers
-	// promqna ot Dimo
+
+    // promqna ot Usre2
     public double divide(double a, double b) throws IllegalArgumentException {
         if (b == 0) {
             throw new IllegalArgumentException("Division by zero is not allowed.");
