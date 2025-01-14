@@ -1,8 +1,8 @@
 public class Calculator {
 
-    // Method to add two numbers
-    public double add(double a, double b) {
-        return a + b;
+    // Method to add three numbers numbers
+    public double add(double a, double b, double c) {
+        return a + b + c;
     }
 
     // Method to subtract two numbers
