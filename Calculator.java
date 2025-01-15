@@ -7,6 +7,7 @@ public class Calculator {
     }
 
     // Method to subtract two numbers
+    // promqna ot dimo
     public double subtract(double a, double b) {
         return a - b;
     }
