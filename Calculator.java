@@ -30,6 +30,7 @@ public class Calculator {
 
     // Main method to demonstrate usage
     // some change ot Gandalf
+    // new change
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
