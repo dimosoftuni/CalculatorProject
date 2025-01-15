@@ -1,4 +1,5 @@
 // change one
+// change 3
 public class Calculator {
 
     // Method to add three numbers numbers
